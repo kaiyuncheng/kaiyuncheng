@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 I am a seasoned front-end developer with a strong foundation in UI design and graphic design, backed by over 8 years of expertise in UI design and more than 3 years in front-end programming.
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In my previous roles, I was extensively involved in UI design for various web and app projects. More recently, I have ventured into programming and have discovered a profound passion for coding, prompting me to pursue further education in related fields. ‣ Fast Learner - I have a keen enthusiasm for learning, constantly seeking new knowledge and embracing new challenges. ‣ Diverse Expertise - My diverse experiences have equipped me with the ability to approach problems from different perspectives and effectively find solutions. ‣ Independent Developer - Armed with strong coding skills, I am adept at independent development and problem-solving, complemented by seamless collaboration and communication within a team. I am actively seeking new opportunities to apply and expand my skill set in a dynamic environment. My commitment to excellence, coupled with my creative and technical acumen, makes me an ideal candidate for your front-end development team.
